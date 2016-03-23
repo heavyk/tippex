@@ -31,3 +31,10 @@ function calc (data) {
     something = Math.round(totals[i] / total * 100)
   }
 }
+
+// let tags = this.get('d.tags')
+// if (!tags || !tags.length) {
+//   this.set('d.tags', [
+//     {title: 'lala', _id: 1234},
+//   ])
+// }
